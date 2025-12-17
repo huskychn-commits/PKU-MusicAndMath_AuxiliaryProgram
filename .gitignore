@@ -3,3 +3,6 @@
 
 # 排除URL文件
 教学网.url
+
+# 排除泛音/quest.txt
+泛音/quest.txt
